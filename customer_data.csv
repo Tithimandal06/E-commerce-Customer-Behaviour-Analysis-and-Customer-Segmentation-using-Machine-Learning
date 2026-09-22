@@ -1,0 +1,151 @@
+CustomerID,Age,Gender,PurchaseAmount,Frequency,Recency,Category
+C001,22,Female,2450,8,10,Clothing
+C002,30,Male,1250,3,35,Electronics
+C003,25,Female,4500,12,5,Beauty
+C004,40,Male,900,2,60,Grocery
+C005,28,Female,3200,7,15,Clothing
+C006,35,Male,5600,14,8,Electronics
+C007,24,Female,1800,5,22,Beauty
+C008,45,Male,1100,2,75,Grocery
+C009,31,Female,3900,9,12,Home Decor
+C010,27,Male,2800,6,18,Sports
+C011,52,Female,6200,16,4,Clothing
+C012,38,Male,2100,5,30,Electronics
+C013,21,Female,1500,4,45,Beauty
+C014,44,Male,4800,11,9,Home Decor
+C015,29,Female,3500,8,20,Sports
+C016,33,Male,2700,6,25,Clothing
+C017,26,Female,5100,13,7,Electronics
+C018,48,Male,1300,3,55,Grocery
+C019,36,Female,4200,10,14,Beauty
+C020,23,Male,1900,5,28,Sports
+C021,41,Female,6800,17,3,Home Decor
+C022,34,Male,3000,7,19,Clothing
+C023,28,Female,2400,6,33,Electronics
+C024,50,Male,1600,3,65,Grocery
+C025,32,Female,4700,11,11,Beauty
+C026,39,Male,3300,8,17,Sports
+C027,20,Female,1200,3,50,Clothing
+C028,46,Male,5900,14,6,Electronics
+C029,30,Female,3600,9,16,Home Decor
+C030,37,Male,2200,5,38,Grocery
+C031,43,Female,5300,13,9,Beauty
+C032,25,Male,1750,4,42,Sports
+C033,29,Female,4100,10,13,Clothing
+C034,55,Male,1000,2,80,Grocery
+C035,34,Female,4900,12,7,Electronics
+C036,42,Male,3700,9,21,Home Decor
+C037,27,Female,2300,5,31,Beauty
+C038,31,Male,2900,7,24,Sports
+C039,49,Female,6400,15,5,Clothing
+C040,36,Male,1400,3,58,Grocery
+C041,24,Female,3400,8,18,Electronics
+C042,40,Male,4500,10,12,Home Decor
+C043,33,Female,2600,6,27,Beauty
+C044,51,Male,1150,2,72,Grocery
+C045,28,Female,5200,13,6,Sports
+C046,37,Male,3100,7,20,Clothing
+C047,22,Female,1950,5,36,Electronics
+C048,45,Male,5700,14,8,Home Decor
+C049,35,Female,4300,10,15,Beauty
+C050,30,Male,2500,6,29,Sports
+C051,53,Female,7100,18,2,Clothing
+C052,39,Male,1350,3,62,Grocery
+C053,26,Female,3800,9,17,Electronics
+C054,44,Male,4600,11,10,Home Decor
+C055,32,Female,2900,7,25,Beauty
+C056,21,Male,1550,4,48,Sports
+C057,47,Female,6000,15,5,Clothing
+C058,36,Male,3400,8,23,Electronics
+C059,29,Female,2150,5,34,Grocery
+C060,41,Male,5000,12,9,Home Decor
+C061,25,Female,2700,6,26,Beauty
+C062,38,Male,1850,4,44,Sports
+C063,54,Female,6700,16,4,Clothing
+C064,31,Male,3200,8,19,Electronics
+C065,27,Female,4400,10,12,Home Decor
+C066,43,Male,1050,2,77,Grocery
+C067,34,Female,3500,8,21,Beauty
+C068,23,Male,2250,5,32,Sports
+C069,48,Female,5800,14,7,Clothing
+C070,37,Male,2800,6,30,Electronics
+C071,30,Female,4000,9,16,Home Decor
+C072,52,Male,1450,3,68,Grocery
+C073,28,Female,5300,12,8,Beauty
+C074,40,Male,3650,8,22,Sports
+C075,33,Female,2550,6,35,Clothing
+C076,46,Male,6100,15,5,Electronics
+C077,24,Female,1700,4,47,Grocery
+C078,35,Male,4750,11,13,Home Decor
+C079,42,Female,3050,7,24,Beauty
+C080,29,Male,2350,5,39,Sports
+C081,50,Female,6900,17,3,Clothing
+C082,38,Male,1250,3,59,Grocery
+C083,26,Female,4200,10,14,Electronics
+C084,45,Male,3900,9,18,Home Decor
+C085,32,Female,3100,7,27,Beauty
+C086,22,Male,1600,4,51,Sports
+C087,55,Female,7300,18,2,Clothing
+C088,36,Male,2950,7,25,Electronics
+C089,31,Female,5100,12,9,Home Decor
+C090,49,Male,950,2,84,Grocery
+C091,27,Female,3700,9,16,Beauty
+C092,39,Male,2600,6,33,Sports
+C093,43,Female,5600,13,6,Clothing
+C094,25,Male,1800,4,46,Electronics
+C095,34,Female,4500,11,11,Home Decor
+C096,47,Male,1350,3,70,Grocery
+C097,30,Female,3350,8,20,Beauty
+C098,41,Male,4250,10,15,Sports
+C099,28,Female,2750,6,29,Clothing
+C100,53,Male,6500,16,4,Electronics
+C101,37,Female,3900,9,17,Home Decor
+C102,23,Male,1150,3,57,Grocery
+C103,44,Female,4800,11,10,Beauty
+C104,33,Male,3000,7,26,Sports
+C105,26,Female,2200,5,41,Clothing
+C106,51,Male,5900,14,7,Electronics
+C107,35,Female,3600,8,19,Home Decor
+C108,29,Male,1450,3,63,Grocery
+C109,40,Female,5200,12,8,Beauty
+C110,24,Male,2550,6,28,Sports
+C111,48,Female,6800,16,3,Clothing
+C112,32,Male,3350,8,21,Electronics
+C113,27,Female,4100,10,13,Home Decor
+C114,45,Male,1050,2,79,Grocery
+C115,36,Female,2900,7,24,Beauty
+C116,21,Male,1750,4,49,Sports
+C117,54,Female,6200,15,5,Clothing
+C118,39,Male,3700,9,18,Electronics
+C119,31,Female,4650,11,12,Home Decor
+C120,43,Male,1250,3,66,Grocery
+C121,28,Female,3250,8,22,Beauty
+C122,50,Male,4400,10,16,Sports
+C123,34,Female,2400,5,37,Clothing
+C124,46,Male,6000,14,6,Electronics
+C125,25,Female,1950,4,43,Grocery
+C126,38,Male,4900,11,9,Home Decor
+C127,30,Female,3500,8,20,Beauty
+C128,42,Male,2700,6,31,Sports
+C129,22,Female,1400,3,56,Clothing
+C130,52,Male,6600,16,4,Electronics
+C131,37,Female,4300,10,14,Home Decor
+C132,29,Male,1000,2,82,Grocery
+C133,41,Female,5100,12,7,Beauty
+C134,33,Male,3150,7,23,Sports
+C135,26,Female,2800,6,34,Clothing
+C136,49,Male,5700,13,8,Electronics
+C137,35,Female,4000,9,17,Home Decor
+C138,23,Male,1300,3,61,Grocery
+C139,44,Female,4600,11,10,Beauty
+C140,31,Male,2250,5,40,Sports
+C141,53,Female,7000,17,2,Clothing
+C142,39,Male,3500,8,22,Electronics
+C143,27,Female,3900,9,15,Home Decor
+C144,47,Male,1100,2,74,Grocery
+C145,32,Female,5300,13,6,Beauty
+C146,40,Male,2900,7,28,Sports
+C147,24,Female,2100,5,36,Clothing
+C148,55,Male,6300,15,5,Electronics
+C149,36,Female,4450,10,12,Home Decor
+C150,43,Male,1500,3,64,Grocery
